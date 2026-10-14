@@ -15,7 +15,6 @@
 - 🌱 I’m currently studying **Informatics Engineering** at Universitas Al-Khairiyah.
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 - 🛠️ Always exploring new tools and learning by building project by project!
-- 🎓 Alumni Coding Camp 2026 Powered By DBS Foundations AI Engineer Track 
 - ⚡ Fun fact: Love blending clean code with neat visual aesthetics.
 
 ---
@@ -51,33 +50,34 @@
 
 ---
 
-### 📊 Terminal Metrics & Code Fingerprint
+### 📊 Terminal Metrics & GitHub Streak
 
 <!-- Custom Cyberpunk Terminal Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" alt="Cyberpunk Stats" />
 </p>
 
-<!-- Language Skills Bar / Code Activity Metric -->
+<!-- Language Skills Bar -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=synthwave&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak Stats (Synthwave Theme) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsmagic-arc&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
-<!-- Cat Coding Animation -->
+<!-- Cat Coding Animation (Guaranteed Active) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0MnJ0ZTZ1NnR4MHR6aHRvNXFzaTJ4MGJpMGV3ZDN3NWlnczZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140px" alt="Cat Paws" />
+  <br>
+  <img src="https://raw.githubusercontent.com/evertonS3/evertonS3/main/assets/cat-typing.gif" width="200px" alt="Cat Coding" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/ananda-safrida-680459304" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anandasafrida39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <a href="
