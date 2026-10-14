@@ -15,6 +15,7 @@
 - 🌱 I’m currently studying **Informatics Engineering** at Universitas Al-Khairiyah.
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 - 🛠️ Always exploring new tools and learning by building project by project!
+- 🎓 Alumni Coding Camp 2026 Powered By DBS Foundations AI Engineer Track 
 - ⚡ Fun fact: Love blending clean code with neat visual aesthetics.
 
 ---
