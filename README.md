@@ -64,11 +64,9 @@
 
 ---
 
-<!-- Cat Coding Animations (Guaranteed 100% Working) -->
+<!-- Cat Coding Animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140px" alt="Cat Paws" />
-  <br>
-  <img src="https://raw.githubusercontent.com/evertonS3/evertonS3/main/assets/cat-typing.gif" width="200px" alt="Cat Coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0MnJ0ZTZ1NnR4MHR6aHRvNXFzaTJ4MGJpMGV3ZDN3NWlnczZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 </p>
 
 ---
