@@ -50,19 +50,25 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📊 Terminal Metrics & Code Fingerprint
 
-<!-- Capsule / Badge Stats (Anti-Broken & Minimalist) -->
+<!-- Custom Cyberpunk Terminal Stats -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mrsmagic-arc?label=Followers&style=for-the-badge&color=3B82F6&logo=github" />
-  <img src="https://img.shields.io/github/stars/mrsmagic-arc?label=Stars%20Earned&style=for-the-badge&color=8B5CF6&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" alt="Cyberpunk Stats" />
+</p>
+
+<!-- Language Skills Bar / Code Activity Metric -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=synthwave&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Cat Coding Animation -->
+<!-- Cat Coding Animations (Guaranteed 100% Working) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0MnJ0ZTZ1NnR4MHR6aHRvNXFzaTJ4MGJpMGV3ZDN3NWlnczZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140px" alt="Cat Paws" />
+  <br>
+  <img src="https://raw.githubusercontent.com/evertonS3/evertonS3/main/assets/cat-typing.gif" width="200px" alt="Cat Coding" />
 </p>
 
 ---
