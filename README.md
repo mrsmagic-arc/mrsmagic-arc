@@ -13,8 +13,8 @@
 
 ### 💻 About Me
 - 🌱 I’m currently studying **Informatics Engineering** at Universitas Al-Khairiyah.
-- 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
-- 🛠️ Always exploring new tools, cloud services, and building cool web apps (like smart nutrition assistants & automated systems!).
+- 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
+- 🛠️ Always exploring new tools and learning by building project by project!
 - ⚡ Fun fact: Love blending clean code with neat visual aesthetics.
 
 ---
@@ -59,6 +59,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsmagic-arc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Cat Coding Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0MnJ0ZTZ1NnR4MHR6aHRvNXFzaTJ4MGJpMGV3ZDN3NWlnczZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 </p>
 
 ---
