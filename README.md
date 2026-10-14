@@ -52,14 +52,17 @@
 
 ### 📊 GitHub Trophies & Activity
 
-<!-- Piala Digital / Trophies -->
+### 📊 GitHub Stats & Activity
+
+<!-- Versi Stats Card yang Stabil & Pasti Muncul -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrsmagic-arc&theme=flat&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Activity Line Graph -->
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsmagic-arc&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsmagic-arc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
