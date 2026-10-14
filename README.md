@@ -1,7 +1,7 @@
 <!-- Header Banner / Greeting -->
 <h1 align="center">Hi there, I'm Ananda Safrida 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Learning+by+building+project+by+project" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Informatics+Engineering+Student;AI+%26+Machine+Learning+Explorer;Learning+by+building+project+by+project" alt="Typing SVG" />
 </p>
 
 <p align="center">
