@@ -50,19 +50,12 @@
 
 ---
 
-### 📊 GitHub Trophies & Activity
+### 📊 GitHub Overview
 
-### 📊 GitHub Stats & Activity
-
-<!-- Versi Stats Card yang Stabil & Pasti Muncul -->
+<!-- Capsule / Badge Stats (Anti-Broken & Minimalist) -->
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsmagic-arc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/mrsmagic-arc?label=Followers&style=for-the-badge&color=3B82F6&logo=github" />
+  <img src="https://img.shields.io/github/stars/mrsmagic-arc?label=Stars%20Earned&style=for-the-badge&color=8B5CF6&logo=github" />
 </p>
 
 ---
