@@ -54,7 +54,7 @@
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/anandasafrida" target="_blank">
+  <a href="https://linkedin.com/in/ananda-safrida-680459304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anandasafrida39@gmail.com">
