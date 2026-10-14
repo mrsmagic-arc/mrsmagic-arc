@@ -52,13 +52,16 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats & Achievements
+
+<!-- Piala Digital / Trophies -->
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mrsmagic-arc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmagic-arc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsmagic-arc&theme=flat&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
 </p>
 
+<!-- Activity Line Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsmagic-arc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsmagic-arc&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </p>
 
 ---
