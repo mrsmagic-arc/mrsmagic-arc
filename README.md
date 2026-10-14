@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://img.shields.io/badge/Status-Exploring_AI_%26_Building_Things-blue?style=for-the-badge&logo=appveyor" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Focus-Python_%7C_React_%7C_Cloud-success?style=for-the-badge&logo=codeforces" alt="Focus"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Python_%7C_AI_%7C_Web_Basics-success?style=for-the-badge&logo=codeforces" alt="Focus"></a>
 </p>
 
 ---
@@ -50,9 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats & Achievements
+### 📊 GitHub Trophies & Activity
 
 <!-- Piala Digital / Trophies -->
 <p align="center">
