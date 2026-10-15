@@ -14,12 +14,12 @@
 - 🌱 I’m currently studying **Informatics Engineering** at Universitas Al-Khairiyah.
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 - 🛠️ Always exploring new tools and learning by building project by project!
-- 🎓 Alumni Coding Camp 2026 Powerd By DBS Foundations AI Engineer Track
+- 🎓 Alumni Coding Camp 2026 Powered By DBS Foundations AI Engineer Track
 - ⚡ Fun fact: Love blending clean code with neat visual aesthetics.
 
 ---
 
-🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 Programming Languages
 
@@ -38,6 +38,7 @@ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,figma,canva&theme=dark" alt="Tools and Platforms"/>
 </p>
+
 ---
 
 ### 📊 GitHub Analytics
@@ -49,12 +50,6 @@ Tools & Platforms
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=mrsmagic-arc&theme=transparent&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak"/>
-</p>
-
----
-<!-- Paus berenang -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 </p>
 
 ---
